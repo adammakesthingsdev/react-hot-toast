@@ -97,7 +97,7 @@
     "goober": "^2.1.10"
   },
   "peerDependencies": {
-    "react": ">=19",
-    "react-dom": ">=19"
+    "react": ">=19.0.0-rc.1",
+    "react-dom": ">=19.0.0-rc.1"
   }
 }
