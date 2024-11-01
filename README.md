@@ -1,3 +1,5 @@
+Updated to fix dependencies for React 19.0+!
+
 <a href="https://react-hot-toast.com/"><img alt="react-hot-toast - Try it out" src="https://github.com/timolins/react-hot-toast/raw/main/assets/header.svg"/></a>
 
 <div align="center">
